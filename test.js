@@ -4,5 +4,5 @@ function methodName
 	
 }
 
-onsole.log(obj;
+console.log(obj);
 
