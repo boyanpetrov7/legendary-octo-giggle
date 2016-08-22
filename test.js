@@ -1,3 +1,6 @@
-function methodName(arguments) {
-	console.log("logged");
+function logMe(msg) {
+	return msg || "Message not provided!";
 }
+
+console.log(logMe());
+console.log(logMe("testing..."));
