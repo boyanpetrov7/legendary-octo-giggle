@@ -1,8 +1,3 @@
-function methodName
-
-	) {
-	
+function methodName(arguments) {
+	console.log("logged");
 }
-
-console.log(obj);
-
