@@ -1,0 +1,1 @@
+function Car(){this.wheels=4}Car.prototype.startEngine=function(){return!0},Car.prototype.isDriving=function(){return this.startEngine()&&!0},module.exports=Car;
